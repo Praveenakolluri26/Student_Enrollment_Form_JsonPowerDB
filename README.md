@@ -15,6 +15,11 @@ JsonPowerDB is an easy to use database which does not need any scripting languag
   <li>JavaScript</li>
   <li>JsonPowerDB</li>
 </ul>
+<h2>Screenshots </h2>
+<img src="Screenshot1.png">
+<br>
+
+<img src="Screenshot2.png">
 <h2>Local Run</h2>
 <ul>
   <li>Clone this github project</li>
